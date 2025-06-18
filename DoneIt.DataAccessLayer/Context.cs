@@ -12,7 +12,7 @@ namespace DoneIt.DataAccessLayer
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=LAPTOP-G13T04V9\\SQLEXPRESS;Database=DoneItDb;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer("Server=LAPTOP-G13T04V9\\SQLEXPRESS;Database=DoneItDb;Trusted_Connection=True;TrustServerCertificate=True;");
         }
 
         public DbSet<TaskItem> TaskItems { get; set; }
