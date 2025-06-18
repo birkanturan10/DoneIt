@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj": {}
+    "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj": {
+    "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj",
         "projectName": "DoneIt.BusinessLayer",
-        "projectPath": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\birka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj"
+              "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj"
               },
-              "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj"
+              "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj": {
+    "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj",
         "projectName": "DoneIt.DataAccessLayer",
-        "projectPath": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\birka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj"
+              "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj"
               }
             }
           }
@@ -125,6 +125,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -145,14 +161,14 @@
         }
       }
     },
-    "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj": {
+    "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj",
         "projectName": "DoneIt.EntityLayer",
-        "projectPath": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.EntityLayer\\DoneIt.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\birka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\birka\\source\\repos\\DoneIt\\DoneIt.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\birka\\Desktop\\Yazılım Projeleri\\DoneIt\\DoneIt.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
