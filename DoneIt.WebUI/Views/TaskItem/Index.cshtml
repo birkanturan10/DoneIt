@@ -1,0 +1,35 @@
+﻿@model List<DoneIt.EntityLayer.TaskItem>
+
+@{
+    ViewBag.Title = "Görev Listesi";
+}
+
+<h2 class="mt-3 mb-3 text-center">Görev Listesi</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Başlık</th>
+            <th>Açıklama</th>
+            <th>Tarih</th>
+            <th>Kategori</th>
+            <th>Tamamlandı mı?</th>
+            <th>Bitiş Tarihi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.TaskID</td>
+                <td>@item.Title</td>
+                <td>@item.Description</td>
+                <td>@item.Date.ToShortDateString()</td>
+                <td>@item.Category</td>
+                <td>@(item.IsCompleted ? "Evet" : "Hayır")</td>
+                <td>@item.Deadline.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>

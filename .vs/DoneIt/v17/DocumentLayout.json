@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{491E3881-BB97-48BB-B763-3114D6D784F6}|DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj|c:\\users\\birka\\desktop\\yaz\u0131l\u0131m projeleri\\doneit\\doneit.businesslayer\\taskitemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{491E3881-BB97-48BB-B763-3114D6D784F6}|DoneIt.BusinessLayer\\DoneIt.BusinessLayer.csproj|solutionrelative:doneit.businesslayer\\taskitemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|c:\\users\\birka\\desktop\\yaz\u0131l\u0131m projeleri\\doneit\\doneit.webui\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|solutionrelative:doneit.webui\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F35B83D9-EB51-4BD9-A0CB-46419F5355F6}|DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj|c:\\users\\birka\\desktop\\yaz\u0131l\u0131m projeleri\\doneit\\doneit.dataaccesslayer\\taskitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F35B83D9-EB51-4BD9-A0CB-46419F5355F6}|DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj|solutionrelative:doneit.dataaccesslayer\\taskitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|c:\\users\\birka\\desktop\\yaz\u0131l\u0131m projeleri\\doneit\\doneit.webui\\views\\taskitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|solutionrelative:doneit.webui\\views\\taskitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F35B83D9-EB51-4BD9-A0CB-46419F5355F6}|DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj|c:\\users\\birka\\desktop\\yaz\u0131l\u0131m projeleri\\doneit\\doneit.dataaccesslayer\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F35B83D9-EB51-4BD9-A0CB-46419F5355F6}|DoneIt.DataAccessLayer\\DoneIt.DataAccessLayer.csproj|solutionrelative:doneit.dataaccesslayer\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|c:\\users\\birka\\desktop\\yaz\u0131l\u0131m projeleri\\doneit\\doneit.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|solutionrelative:doneit.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskItemManager.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.BusinessLayer\\TaskItemManager.cs",
-              "RelativeDocumentMoniker": "DoneIt.BusinessLayer\\TaskItemManager.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.BusinessLayer\\TaskItemManager.cs",
-              "RelativeToolTip": "DoneIt.BusinessLayer\\TaskItemManager.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA8wBsAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "DoneIt.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Program.cs",
+              "RelativeToolTip": "DoneIt.WebUI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T10:52:59.22Z",
+              "WhenOpened": "2025-07-02T09:02:18.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\Context.cs",
-              "RelativeDocumentMoniker": "DoneIt.DataAccessLayer\\Context.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\Context.cs",
-              "RelativeToolTip": "DoneIt.DataAccessLayer\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:06:12.641Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Views\\TaskItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoneIt.WebUI\\Views\\TaskItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Views\\TaskItem\\Index.cshtml",
+              "RelativeToolTip": "DoneIt.WebUI\\Views\\TaskItem\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvxUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T09:01:49.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskItemDal.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\TaskItemDal.cs",
-              "RelativeDocumentMoniker": "DoneIt.DataAccessLayer\\TaskItemDal.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.DataAccessLayer\\TaskItemDal.cs",
-              "RelativeToolTip": "DoneIt.DataAccessLayer\\TaskItemDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TaskItemController.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Controllers\\TaskItemController.cs",
+              "RelativeDocumentMoniker": "DoneIt.WebUI\\Controllers\\TaskItemController.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Controllers\\TaskItemController.cs",
+              "RelativeToolTip": "DoneIt.WebUI\\Controllers\\TaskItemController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:00:33.32Z",
+              "WhenOpened": "2025-07-02T08:59:22.244Z",
               "EditorCaption": ""
             }
           ]
