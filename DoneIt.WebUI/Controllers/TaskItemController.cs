@@ -18,5 +18,18 @@ namespace DoneIt.WebUI.Controllers
             List<TaskItem> tasks = _taskItemManager.GetAll(); 
             return View(tasks);
         }
+
+        public IActionResult Add()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Add(TaskItem task)
+        {
+            task.Date = DateTime.Now;
+            _taskItemManager.Add(task);
+            return RedirectToAction("Index");
+        }
     }
 }

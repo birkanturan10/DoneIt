@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|solutionrelative:doneit.webui\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|c:\\users\\birka\\desktop\\yaz\u0131l\u0131m projeleri\\doneit\\doneit.webui\\views\\taskitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|solutionrelative:doneit.webui\\views\\taskitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|c:\\users\\birka\\desktop\\yaz\u0131l\u0131m projeleri\\doneit\\doneit.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|solutionrelative:doneit.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|c:\\users\\birka\\desktop\\yaz\u0131l\u0131m projeleri\\doneit\\doneit.webui\\views\\taskitem\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{585803B8-661E-4422-B41C-07B3C6130878}|DoneIt.WebUI\\DoneIt.WebUI.csproj|solutionrelative:doneit.webui\\views\\taskitem\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Program.cs",
-              "RelativeDocumentMoniker": "DoneIt.WebUI\\Program.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Program.cs",
-              "RelativeToolTip": "DoneIt.WebUI\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T09:02:18.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Views\\TaskItem\\Index.cshtml",
-              "RelativeDocumentMoniker": "DoneIt.WebUI\\Views\\TaskItem\\Index.cshtml",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Views\\TaskItem\\Index.cshtml",
-              "RelativeToolTip": "DoneIt.WebUI\\Views\\TaskItem\\Index.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAADgvxUAAAAeAAAAAAAAAA==",
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Views\\TaskItem\\Add.cshtml",
+              "RelativeDocumentMoniker": "DoneIt.WebUI\\Views\\TaskItem\\Add.cshtml",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Views\\TaskItem\\Add.cshtml",
+              "RelativeToolTip": "DoneIt.WebUI\\Views\\TaskItem\\Add.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T09:01:49.254Z",
+              "WhenOpened": "2025-07-04T16:15:39.512Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +41,7 @@
               "RelativeDocumentMoniker": "DoneIt.WebUI\\Controllers\\TaskItemController.cs",
               "ToolTip": "C:\\Users\\birka\\Desktop\\Yaz\u0131l\u0131m Projeleri\\DoneIt\\DoneIt.WebUI\\Controllers\\TaskItemController.cs",
               "RelativeToolTip": "DoneIt.WebUI\\Controllers\\TaskItemController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T08:59:22.244Z",
               "EditorCaption": ""
