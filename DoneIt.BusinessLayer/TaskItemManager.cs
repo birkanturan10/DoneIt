@@ -27,5 +27,10 @@ namespace DoneIt.BusinessLayer
         {
             return _taskItemDal.GetAll();
         }
+
+        public void Delete(TaskItem task)
+        {
+            _taskItemDal.Delete(task);
+        }
     }
 }

@@ -31,5 +31,15 @@ namespace DoneIt.WebUI.Controllers
             _taskItemManager.Add(task);
             return RedirectToAction("Index");
         }
+
+        public IActionResult Delete(int id)
+        {
+            var task = _taskItemManager.GetAll().FirstOrDefault(x => x.TaskID == id);
+            if (task != null)
+            {
+                _taskItemManager.Delete(task);
+            }
+            return RedirectToAction("Index");
+        }
     }
 }
