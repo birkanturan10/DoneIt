@@ -41,5 +41,16 @@ namespace DoneIt.WebUI.Controllers
             }
             return RedirectToAction("Index");
         }
+
+        public IActionResult ToggleStatus(int id)
+        {
+            var task = _taskItemManager.GetAll().FirstOrDefault(x => x.TaskID == id);
+            if (task != null)
+            {
+                task.IsCompleted = !task.IsCompleted;
+                _taskItemManager.Update(task);
+            }
+            return RedirectToAction("Index");
+        }
     }
 }

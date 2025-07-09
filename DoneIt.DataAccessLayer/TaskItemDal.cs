@@ -32,5 +32,11 @@ namespace DoneIt.DataAccessLayer
             _context.TaskItems.Remove(task);
             _context.SaveChanges();
         }
+
+        public void Update(TaskItem task)
+        {
+            _context.TaskItems.Update(task);
+            _context.SaveChanges();
+        }
     }
 }

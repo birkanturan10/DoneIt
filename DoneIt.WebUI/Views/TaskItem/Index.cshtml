@@ -17,6 +17,7 @@
             <th>Tamamlandı mı?</th>
             <th>Bitiş Tarihi</th>
             <th>Sil</th>
+            <th>Durumu Değiştir</th>
         </tr>
     </thead>
     <tbody>
@@ -35,6 +36,12 @@
                        class="btn btn-danger btn-sm"
                        onclick="return confirm('Bu görevi silmek istediğinizden emin misiniz?');">
                         Sil
+                    </a>
+                </td>
+                <td>
+                    <a href="/TaskItem/ToggleStatus/@item.TaskID"
+                       class="btn btn-warning btn-sm">
+                        Durumu Değiştir
                     </a>
                 </td>
             </tr>

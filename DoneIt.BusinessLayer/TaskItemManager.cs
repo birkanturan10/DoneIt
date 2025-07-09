@@ -32,5 +32,10 @@ namespace DoneIt.BusinessLayer
         {
             _taskItemDal.Delete(task);
         }
+
+        public void Update(TaskItem task)
+        {
+            _taskItemDal.Update(task);
+        }
     }
 }
