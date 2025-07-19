@@ -39,10 +39,57 @@ button.accept-policy {
   line-height: inherit;
 }
 
+.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  font-size: 2rem;
+  letter-spacing: 2px;
+}
+
+.navbar {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  background: #f8f9fa;
+}
+
+body {
+  background: linear-gradient(135deg, #f0f4f8 0%, #e9ecef 100%);
+  min-height: 100vh;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+h2, .navbar-brand {
+  color: #1b6ec2;
+}
+
+.table {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.btn-primary, .btn-success {
+  background: linear-gradient(90deg, #1b6ec2 60%, #0077cc 100%);
+  border: none;
+  transition: background 0.2s;
+}
+
+.btn-primary:hover, .btn-success:hover {
+  background: linear-gradient(90deg, #0077cc 60%, #1b6ec2 100%);
+}
+
 .footer {
-  position: absolute;
+  background: #f8f9fa;
+  color: #888;
+  font-size: 1rem;
+  border-top: 1px solid #e5e5e5;
+  padding: 1rem 0;
+  position: static;
   bottom: 0;
   width: 100%;
-  white-space: nowrap;
-  line-height: 60px;
+  text-align: center;
 }

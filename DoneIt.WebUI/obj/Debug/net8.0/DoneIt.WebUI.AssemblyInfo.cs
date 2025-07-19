@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoneIt.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d59a73afb17de3ac7b6474183ebed2266d01eb5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b4dd13cc47de0cd1a8c651f3a9434e2856a7343")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoneIt.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoneIt.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
